@@ -1,5 +1,5 @@
 İlk Github metin yazım.
 
-Bu benim github üzerinde deneme yaptığım ilk kod çalışmasıdır.
+Bu benim github üzerinde paylaşım yaptığım ilk kod çalışmasıdır.
 
 
