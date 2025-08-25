@@ -1,3 +1,5 @@
 İlk Github metin yazım.
 
 Bu benim github üzerinde deneme yaptığım ilk kod çalışmasıdır.
+
+1978 yılında istanbul fatihte dünyaya geldim.
